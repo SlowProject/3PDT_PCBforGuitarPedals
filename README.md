@@ -1,2 +1,2 @@
 # 3PDT_PCBforGuitarPedals
-A PCB for DIY guitar pedals 3PDT-switches
+A PCB for adapting a 3PDT-switch to a DIY guitar pedal
